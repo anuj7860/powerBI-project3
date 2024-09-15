@@ -67,3 +67,13 @@ Attrition by Job Role: Attrition is highest for Sales Executives.
 
 
 # dashboard visual : 
+
+![Screenshot 2024-09-14 132516](https://github.com/user-attachments/assets/033befab-b430-4cb0-8fd6-60604c22505d)
+
+![Screenshot 2024-09-14 132529](https://github.com/user-attachments/assets/8ef90076-48f7-4894-9ff1-581a93c8395f)
+
+![Screenshot 2024-09-14 132542](https://github.com/user-attachments/assets/c2a4f4b7-7936-47ba-94c9-c8df3b02a88b)
+
+![Screenshot 2024-09-14 132601](https://github.com/user-attachments/assets/83d4b8a6-16fd-4421-90d2-89bfa6146e71)
+
+
